@@ -1,0 +1,325 @@
+﻿.Moderno {
+	font: 14px 'Segoe UI','Helvetica Neue','Droid Sans',Arial,Tahoma,Geneva,Sans-serif;
+	color: #2B2B2B;
+}
+
+	.Moderno:disabled {
+		color: #9f9f9f;
+		cursor: default;
+	}
+
+/* -- Button -- */
+input[type="submit"].Moderno {
+	/*.dxbButton_Moderno*/
+	font: 14px 'Segoe UI','Helvetica Neue','Droid Sans',Arial,Tahoma,Geneva,Sans-serif;
+	color: #2B2B2B;
+	border: 1px solid #c3c3c3;
+	padding: 4px 22px;
+	background: #eaeaea;
+	background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pg0KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHZpZXdCb3g9IjAgMCAxIDEiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPg0KICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQtdWNnZy1nZW5lcmF0ZWQiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjAlIiB5Mj0iMTAwJSI+DQogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI0VBRUFFQSIgc3RvcC1vcGFjaXR5PSIxIi8+DQogICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjREZERkRGIiBzdG9wLW9wYWNpdHk9IjEiLz4NCiAgPC9saW5lYXJHcmFkaWVudD4NCiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4NCjwvc3ZnPg0K);
+	background: -ms-linear-gradient(top, rgba(234,234,234,1) 0%, rgba(223,223,223,1) 100%);
+	background: -moz-linear-gradient(top, rgba(234,234,234,1) 0%, rgba(223,223,223,1) 100%);
+	background: -o-linear-gradient(top, rgba(234,234,234,1) 0%, rgba(223,223,223,1) 100%);
+	background: -webkit-linear-gradient(top, rgba(234,234,234,1) 0%, rgba(223,223,223,1) 100%);
+	background: linear-gradient(to bottom, rgba(234,234,234,1) 0%, rgba(223,223,223,1) 100%);
+	border-radius: 4px;
+	-webkit-border-radius: 4px;
+	box-shadow: inset 0px 1px 0px 0px rgba(255,255,255,0.35), 0px 1px 3px 0px rgba(0,0,0,0.1);
+	-webkit-box-shadow: inset 0px 1px 0px 0px rgba(255,255,255,0.35), 0px 1px 3px 0px rgba(0,0,0,0.1);
+	/*.dxbButton_Moderno div.dxb*/
+	padding-bottom: 9px;
+}
+
+	input[type="submit"].Moderno:hover {
+		/*.dxbButtonHover_Moderno*/
+		border: 1px Solid #0a67a8;
+		color: white;
+		background: #1d85cd;
+		background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pg0KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHZpZXdCb3g9IjAgMCAxIDEiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPg0KICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQtdWNnZy1nZW5lcmF0ZWQiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjAlIiB5Mj0iMTAwJSI+DQogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzFEODVDRCIgc3RvcC1vcGFjaXR5PSIxIi8+DQogICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMDg2Q0IzIiBzdG9wLW9wYWNpdHk9IjEiLz4NCiAgPC9saW5lYXJHcmFkaWVudD4NCiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4NCjwvc3ZnPg0K);
+		background: -ms-linear-gradient(top, rgba(29,133,205,1) 0%, rgba(8,108,179,1) 100%);
+		background: -moz-linear-gradient(top, rgba(29,133,205,1) 0%, rgba(8,108,179,1) 100%);
+		background: -o-linear-gradient(top, rgba(29,133,205,1) 0%, rgba(8,108,179,1) 100%);
+		background: -webkit-linear-gradient(top, rgba(29,133,205,1) 0%, rgba(8,108,179,1) 100%);
+		background: linear-gradient(to bottom, rgba(29,133,205,1) 0%, rgba(8,108,179,1) 100%);
+		box-shadow: inset 0px 1px 0px 0px rgba(255,255,255,0.15), 0px 1px 3px 0px rgba(0,0,0,0.1);
+		-webkit-box-shadow: inset 0px 1px 0px 0px rgba(255,255,255,0.15), 0px 1px 3px 0px rgba(0,0,0,0.1);
+	}
+
+.dxIE.dxBrowserVersion-8 input[type="submit"].Moderno:hover {
+	background: #1d85cd;
+}
+
+/* Disabled */
+input[type="submit"].Moderno:disabled {
+	background: #e7e7e7;
+	border-color: #d3d3d3;
+	/*.dxbDisabled_Moderno,
+a.dxbButton_Moderno.dxbDisabled_Moderno*/
+	color: #C3C3C3;
+	cursor: default;
+	text-decoration: none;
+}
+
+
+/* -- End Button -- */
+
+
+/* CheckBox */
+
+.ModernoCheckBox {
+	background-image: url('images/sprite.png');
+	background-repeat: no-repeat;
+	background-color: transparent;
+	width: 24px;
+	height: 24px;
+	/*.dxichSys*/
+	margin: 1px;
+	cursor: default;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.ModernoCheckBoxUnchecked {
+	background-position: 0px -336px;
+}
+
+.ModernoCheckBoxChecked {
+	background-position: -184px -304px;
+}
+
+.ModernoCheckBox:focus {
+	outline: 1px dotted #8F7200;
+}
+
+.ModernoCheckBoxUncheckedDisabled {
+	background-position: -50px -336px;
+	pointer-events: none;
+}
+
+.ModernoCheckBoxCheckedDisabled {
+	background-position: -25px -336px;
+	pointer-events: none;
+}
+/* End CheckBox */
+
+
+/* CheckBoxList */
+.Moderno_CheckBoxList label {
+	/*.dxeTAR.dxeBase_Moderno .dxichTextCellSys,
+.dxeTAL.dxeBase_Moderno[dir='rtl'] .dxichTextCellSys*/
+	padding: 5px 0 4px 4px;
+}
+
+.Moderno_CheckBoxList td {
+	/*.dxeBase_Moderno .dxichCellSys,
+		.dxeBase_Moderno.dxichCellSys*/
+	padding: 3px 3px 4px;
+}
+
+.Moderno_CheckBoxList {
+	border: 1px Solid #d1d1d1;
+	padding: 9px 12px 8px 12px;
+}
+
+	.Moderno_CheckBoxList:focus {
+		/*.dxeFocused_Moderno*/
+		border: 1px solid #0A67A8;
+		box-shadow: 0px 0px 2px 0px rgba(10,103,168,1);
+		-webkit-box-shadow: 0px 0px 2px 0px rgba(10,103,168,1);
+	}
+
+	.Moderno_CheckBoxList.aspNetDisabled {
+		/*.dxeDisabled_Moderno,
+       .dxeDisabled_Moderno td.dxe*/
+		color: #9f9f9f;
+		cursor: default;
+		pointer-events: none;
+	}
+
+/* End CheckBoxList */
+
+/* Calendar */
+
+
+
+.Moderno_Calendar {
+	font: 14px 'Segoe UI','Helvetica Neue','Droid Sans',Arial,Tahoma,Geneva,Sans-serif;
+	color: #2B2B2B;
+	border: 1px solid #d1d1d1;
+	background-color: #FFFFFF;
+	font-weight: normal;
+	width: 300px;
+}
+
+	.Moderno_Calendar a {
+		font: 14px 'Segoe UI','Helvetica Neue','Droid Sans',Arial,Tahoma,Geneva,Sans-serif;
+		color: #2B2B2B;
+		font-weight: normal;
+		text-decoration: none;
+	}
+
+.Moderno_CalendarTitle {
+	background-color: #fafafa;
+	color: #045cad;
+	padding: 10px 6px 10px 6px;
+	border-style: none;
+}
+
+
+.ModernoCalendarTitleContainer {
+	/*.dxeCalendarHeader_Moderno*/
+	background-color: #fafafa;
+	padding: 10px 6px 10px 6px;
+	border-bottom: 1px solid #d1d1d1;
+}
+
+
+.Moderno_edtCalendarNextMonth {
+	background-image: url('/DXR.axd?r=0_1950-WfsVd');
+	background-repeat: no-repeat;
+	background-color: transparent;
+	background-position: -20px -154px;
+	width: 19px;
+	height: 19px;
+	color: transparent !important;
+}
+
+.Moderno_edtCalendarPrevMonth {
+	background-image: url('/DXR.axd?r=0_1950-WfsVd');
+	background-repeat: no-repeat;
+	background-color: transparent;
+	background-position: -80px -154px;
+	width: 19px;
+	height: 19px;
+	color: transparent !important;
+}
+
+.Moderno_Calendar th {
+	color: #045cad;
+	padding: 3px 5px 6px 6px;
+	font-weight: normal;
+	text-decoration: none;
+}
+
+/*disabled*/
+
+.ModernoCalendarTitleContainer.aspNetDisabled, .Moderno_Calendar.aspNetDisabled th,
+.Moderno_Calendar.aspNetDisabled td {
+	/*.dxeDisabled_Moderno td.dxe*/
+	color: #9f9f9f;
+	cursor: default;
+}
+
+.Moderno_edtCalendarNextMonthDisabled {
+	background-image: url('/DXR.axd?r=0_1950-WfsVd');
+	background-repeat: no-repeat;
+	background-color: transparent;
+	background-position: -60px -154px;
+	width: 19px;
+	height: 19px;
+}
+
+.Moderno_edtCalendarPrevMonthDisabled {
+	background-image: url('/DXR.axd?r=0_1950-WfsVd');
+	background-repeat: no-repeat;
+	background-color: transparent;
+	background-position: -40px -154px;
+	width: 19px;
+	height: 19px;
+}
+/* End Calendar */
+
+
+
+
+
+/* HyperLink */
+a.Moderno {
+	font: 14px 'Segoe UI','Helvetica Neue','Droid Sans',Arial,Tahoma,Geneva,Sans-serif;
+	color: #045cad;
+	text-decoration: underline;
+}
+
+	a.Moderno:hover {
+		color: #2b2b2b;
+	}
+
+	a.Moderno.aspNetDisabled {
+		color: #a6a6a6;
+		cursor: default;
+	}
+/* End HyperLink */
+/* Label */
+span.Moderno {
+	font: 14px 'Segoe UI','Helvetica Neue','Droid Sans',Arial,Tahoma,Geneva,Sans-serif;
+	color: #2B2B2B;
+}
+
+
+	span.Moderno.aspNetDisabled {
+		color: #9f9f9f;
+		cursor: default;
+	}
+/* End Label */
+/* TextBox */
+input[type="text"].Moderno {
+	background-color: #fafafa;
+	border: 1px Solid #d1d1d1;
+	font: 14px 'Segoe UI','Helvetica Neue','Droid Sans',Arial,Tahoma,Geneva,Sans-serif;
+	-webkit-box-shadow: inset 0px 2px 3px 0px rgba(0, 0, 0, 0.05);
+	box-shadow: inset 0px 2px 3px 0px rgba(0, 0, 0, 0.05);
+	padding: 6px 2px 6px 7px;
+}
+
+	input[type="text"].Moderno:focus {
+		/*.dxeFocused_Moderno*/
+		border: 1px solid #0A67A8;
+		box-shadow: 0px 0px 2px 0px rgba(10,103,168,1);
+		-webkit-box-shadow: 0px 0px 2px 0px rgba(10,103,168,1);
+	}
+/* End TextBox */
+
+
+
+/* RadioButton */
+
+.ModernoRadioButton {
+	background-image: url('images/sprite2.png');
+	background-repeat: no-repeat;
+	background-color: transparent;
+	width: 24px;
+	height: 24px;
+	/*.dxichSys*/
+	margin: 1px;
+	cursor: default;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+span.Moderno label {
+	padding: 5px 0 4px 4px;
+}
+
+.ModernoRadioButtonUnchecked {
+	background-position: -60px -124px;
+}
+
+.ModernoRadioButtonChecked {
+	background-position: -169px -53px;
+}
+
+.ModernoRadioButton:focus {
+	outline: 1px dotted #8F7200;
+}
+
+.ModernoRadioButtonUncheckedDisabled {
+	background-position: -168px 0px;
+	pointer-events: none;
+}
+
+.ModernoRadioButtonCheckedDisabled {
+	background-position: -168px -28px;
+	pointer-events: none;
+}
+/* End RadioButton */
+
