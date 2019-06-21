@@ -7,6 +7,9 @@
 * [theme.css](./CS/Styles/Moderno/theme.css)
 <!-- default file list end -->
 # How to customize standard ASP.NET controls to look similar to DevExpress controls
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t539371/)**
+<!-- run online end -->
 
 
 <p>Sometimes, it is required to combine standard ASP.NET controls with our DevExpress controls. However, it is difficult to customize the appearance of standard controls. <br>This example demonstrates how to implement this and create controls that look like DevExpress controls that use the Moderno theme. <br><br>For control customizing, add the required styles and scripts to your page:</p>
