@@ -1,8 +1,3 @@
-<!-- default badges list -->
-![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/128566462/17.1.4%2B)
-[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T539371)
-[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
-<!-- default badges end -->
 <!-- default file list -->
 *Files to look at*:
 
@@ -12,9 +7,6 @@
 * [theme.css](./CS/Styles/Moderno/theme.css)
 <!-- default file list end -->
 # How to customize standard ASP.NET controls to look similar to DevExpress controls
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t539371/)**
-<!-- run online end -->
 
 
 <p>Sometimes, it is required to combine standard ASP.NET controls with our DevExpress controls. However, it is difficult to customize the appearance of standard controls. <br>This example demonstrates how to implement this and create controls that look like DevExpress controls that use the Moderno theme. <br><br>For control customizing, add the required styles and scripts to your page:</p>
